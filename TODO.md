@@ -5,10 +5,10 @@
 - Add bg image to sections
 - Add copy to home page (e.g. portfolio links, about, etc etc)
 - Add subnesting to menu (i.e. for portfolio and experience)
-- Use AJAX for contact form
 - Add more detailed home page description
 - Add about page (maybe, home page can double as about page)
 - Create blog index
 - Create blog layout
 - Add images to /experience/ pages
 - Add favicon
+- Use AJAX+mailgun for contact form email
