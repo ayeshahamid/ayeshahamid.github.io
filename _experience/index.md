@@ -5,6 +5,14 @@ title: Skills & Experience
 
 Download my full Resume [here](/static/resume.pdf)!
 
+## Work Experience
+
+{% for experience_page in site.experience %}
+{% if page.title != experience_page.title %}
+[{{ experience_page.title }}]({{ experience_page.url | prepend: site.baseurl }})
+{% endif %}
+{% endfor %}
+
 ## Cash-Handling
 
 - Accurate money handling skills
