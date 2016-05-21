@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 ignore_nav: true
 ---
 
