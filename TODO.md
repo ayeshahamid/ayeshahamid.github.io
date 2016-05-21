@@ -1,8 +1,7 @@
 # Todo
 
 - Add sitemap.xml
-- Update portfolio
-- Add experience pages
+- Add portfolio pages
 - Add bg image to home page
 - Add bg image to sections
 - Add copy to home page (e.g. portfolio links, about, etc etc)
@@ -13,3 +12,4 @@
 - Add about page (maybe, home page can double as about page)
 - Add blog
 - Add images to experience pages
+- Add 404 page
