@@ -9,6 +9,7 @@ first_published: 2016 # if migrating another site, the year of your first publis
 email: ayesha10s92@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayeshahamid.com" # the base hostname & protocol for your site
+permalink: /:categories/:year/:month/:day/:title
 social:
   twitter: https://twitter.com/fairysylvanas
   github: https://github.com/ayeshahamid
