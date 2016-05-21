@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-ignore_nav: true
+hidden: true
 ---
 
 ## Email

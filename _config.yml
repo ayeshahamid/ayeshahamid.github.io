@@ -15,6 +15,7 @@ collections:
   portfolio:
     title: Portfolio
     output: true
+    hidden: true
   experience:
     title: experience
     output: true

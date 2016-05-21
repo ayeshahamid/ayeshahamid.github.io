@@ -9,12 +9,12 @@
           <ul>
             <li><a href="/">Home</a></li>
             {% for collection in site.collections %}
-            {% if collection.title %}
+            {% if collection.title and collection.hidden != true %}
             <li><a href="/{{ collection.label | prepend: site.baseurl }}/">{{ collection.title }}</a></li>
             {% endif %}
             {% endfor %}             
             {% for page in site.pages %}
-            {% if page.title and page.ignore_nav != true %}
+            {% if page.title and page.hidden != true %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
             {% endfor %}           
