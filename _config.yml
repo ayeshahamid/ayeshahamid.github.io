@@ -71,5 +71,5 @@ compress_html:
   endings: all
 gems:
   - jekyll-sitemap  
-
+  - jekyll-seo-tag
 

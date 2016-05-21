@@ -12,4 +12,4 @@
 - Create blog layout
 - Add images to /experience/ pages
 - Add 404 page - https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/
-- Setup webmaster tools
+- Setup webmaster tools - google_site_verification for https://github.com/jekyll/jekyll-seo-tag
