@@ -8,11 +8,16 @@
         <div id="menu">
           <ul>
             <li><a href="/">Home</a></li>
+            {% for collection in site.collections %}
+            {% if collection.title %}
+            <li><a href="/{{ collection.label | prepend: site.baseurl }}/">{{ collection.title }}</a></li>
+            {% endif %}
+            {% endfor %}             
             {% for page in site.pages %}
             {% if page.title and page.ignore_nav != true %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
-            {% endfor %}
+            {% endfor %}           
             <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact Me</a></li>
             <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
                    class="icon fa-feed"> RSS Feed</a></li>
