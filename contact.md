@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+ignore_nav: true
 ---
 
 ## Email
