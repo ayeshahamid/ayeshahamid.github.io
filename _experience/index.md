@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skills & Experience
+permalink: /experience/
 ---
 
 Download my full Resume [here](/static/resume.pdf)!
