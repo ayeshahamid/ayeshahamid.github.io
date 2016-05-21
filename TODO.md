@@ -10,6 +10,7 @@
 - Add updated resume
 - Add more detailed home page description
 - Add about page (maybe, home page can double as about page)
-- Add blog
-- Add images to experience pages
+- Create blog index
+- Create blog layout
+- Add images to /experience/ pages
 - Add 404 page

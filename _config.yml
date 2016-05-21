@@ -10,7 +10,7 @@ first_published: 2016 # if migrating another site, the year of your first publis
 email: ayesha10s92@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayeshahamid.com" # the base hostname & protocol for your site
-permalink: /:categories/:year/:month/:day/:title
+permalink: /blog/:categories/:year/:month/:day/:title
 collections:
   portfolio:
     title: Portfolio
@@ -23,7 +23,7 @@ social:
   twitter: https://twitter.com/fairysylvanas
   github: https://github.com/ayeshahamid
   linkedin-square: https://au.linkedin.com/in/ayesha-hamid-384556114
-  email: /contact
+  email: /contact/
   facebook-official: https://www.facebook.com/Mir0kii
   instagram: https://www.instagram.com/mir0kii
   #google-plus-square
