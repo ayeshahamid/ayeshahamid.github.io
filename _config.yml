@@ -64,3 +64,10 @@ social:
 markdown: kramdown
 sass:
   style: compressed
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  comments: all
+  endings: all
+
+
