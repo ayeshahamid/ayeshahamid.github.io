@@ -17,7 +17,7 @@ collections:
     output: true
     hidden: true
   experience:
-    title: experience
+    title: Experience
     output: true
 social:
   twitter: https://twitter.com/fairysylvanas
