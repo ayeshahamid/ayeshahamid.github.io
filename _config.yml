@@ -11,11 +11,8 @@ email: ayesha10s92@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ayeshahamid.com" # the base hostname & protocol for your site
 permalink: /blog/:categories/:year/:month/:day/:title
+include: ['_pages'] # static pages
 collections:
-  portfolio:
-    title: Portfolio
-    output: true
-    hidden: true
   experience:
     title: Experience
     output: true

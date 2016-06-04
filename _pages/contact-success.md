@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Contact Me
-hidden: true
+hidden_nav: true
 sitemap: false
+permalink: /contact/success
 ---
 
 ## Email
