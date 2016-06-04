@@ -14,7 +14,7 @@
             {% endif %}
             {% endfor %}             
             {% for page in site.pages %}
-            {% if page.title and page.hidden != true %}
+            {% if page.title and page.hidden_nav != true %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
             {% endfor %}           

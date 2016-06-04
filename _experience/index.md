@@ -4,7 +4,7 @@ title: Skills & Experience
 permalink: /experience/
 ---
 
-Download my full Resume [here](/static/resume.pdf)!
+Download my full Résumé [here](/static/resume.pdf)!
 
 ## Work Experience
 

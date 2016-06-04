@@ -12,5 +12,3 @@
 - Add images to /experience/ pages
 - Add favicon
 - Use AJAX+mailgun for contact form email
-- Restructure using _pages and permalink: https://github.com/jekyll/jekyll/issues/920
-- Update resume with normalized text size
