@@ -10,6 +10,18 @@ layout: default
   <section class="wrapper style5">
     <div class="inner">
       {{ content }}
+
+      <div class="related-posts">
+        <ul class="no-style">
+          {% if page.previous %}
+          <li class="left no-padding"><a href="{{ page.previous.url }}">&lt; {{ page.previous.title }}</a></li>
+          {% endif %}
+          {% if page.next %}
+          <li class="right no-padding"><a href="{{ page.next.url }}">{{ page.next.title }} &gt;</a></li>
+          {% endif %}
+        </ul>
+      </div>
     </div>
+    
   </section>
 </article>
