@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: blog
 title: My day @ TBWA (Day 4)
 ---
 
 ## Day 4
 
-The clouds couldn't decide if they could hold it in or had to burst this morning. Lucky I decided to bring an umbrella, intuition, I listened today. Curiously the first song on shuffle today was intuition by cN blue :)
+The clouds couldn't decide if they could hold it in or had to burst this morning. Lucky I decided to bring an umbrella, intuition, I listened today. Curiously the first song on shuffle today was Intuition by CN blue :)
 
 By the way making a conscious effort to use :) smileys instead of the allegedly off putting (:
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 title: My day @ TBWA (Day 1)
 ---
 
