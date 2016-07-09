@@ -15,7 +15,7 @@ include: ['_pages'] # static pages
 collections:
   experience:
     title: Experience
-    output: true
+    output: true 
 social:
   twitter: https://twitter.com/fairysylvanas
   github: https://github.com/ayeshahamid

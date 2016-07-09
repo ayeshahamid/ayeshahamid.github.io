@@ -21,6 +21,10 @@ layout: default
           {% endif %}
         </ul>
       </div>
+
+      {% if page.comments != false %}    
+      {% include disqus.html %}
+      {% endif %}      
     </div>
     
   </section>
